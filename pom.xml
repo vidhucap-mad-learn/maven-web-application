@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://35.183.144.199:8438/</sonar.host.url>
+		<sonar.host.url>http://35.183.144.199:8438/vidhucap</sonar.host.url>
                <sonar.login>11f83464db31364de7b79d9dc94d9eef8e61c4c0</sonar.login>
 		 <!--
                 <sonar.login>admin</sonar.login>
