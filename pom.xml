@@ -100,13 +100,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Marvel Releases Nexus Repository</name>
 	      <url>http://35.182.125.167:8438/vidhucap/repository/marvel-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Marvel Snapshot Nexus Repository</name>
 	      <url>http://35.182.125.167:8438/vidhucap/repository/marvel-snapshot/</url>
 	    </snapshotRepository>
 	    
